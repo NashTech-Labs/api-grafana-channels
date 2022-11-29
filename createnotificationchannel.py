@@ -19,7 +19,7 @@ json_data = {
   "sendReminder": True,
   "frequency" : "15m",
   "settings": {
-    "url" : "https://hooks.slack.com/services/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",
+    "url" : "https://hooks.slack.com/services/9SUows",
     "Username":"devops1-bot",
     "recipient":"#monitoring",
     "Icon emoji":":smile:",
